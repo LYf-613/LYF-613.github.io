@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Liu YiFan
+Englis:YiFan Liu
 ======
-刘一帆 
+Chinese：刘一帆 
 ======
-613
+homophonic：613
 ======
 e-mail:liuyifan221@mails.ucas.ac.cn
 ======
