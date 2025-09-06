@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "613.png"
+  avatar           : 613.png
   name             : "Yifan Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : 613 
   bio              : "A student in UCAS"
   location         : "China"
   employer         : "Red Brick University"
